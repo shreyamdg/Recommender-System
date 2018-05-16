@@ -1,8 +1,14 @@
+/bin/
 # Compiled class file
 *.class
-
+.DS_Store
 # Log file
 *.log
+.settings
+
+#eclipsefiles
+.metadata/
+.recommenders
 
 # BlueJ files
 *.ctxt
